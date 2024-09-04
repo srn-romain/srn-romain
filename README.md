@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Je m'appelle Romain <br>📍 Lyon, France<br>🎓 Étudiant en deuxième année de BTS SIO<br>💻 Passionné d'informatique et de développement<br>🐘 PHP addict 🚀<br>💬 "Mon code, c'est comme une blague : quand ça marche, c'est mieux !" 😄<br>👨‍💻 Codeur enthousiaste | 👾 Chercheur de bugs<br>📚 Toujours en train d'apprendre et d'explorer de nouvelles idées<br>📧 Découvrez mes projets et n'hésitez pas à me contacter !<br>🔗 Let's code together and make the world a bit more fun!<br><br>🧾https://srn-romain.github.io/portfolio/
+👋 Je m'appelle Romain <br>📍 Lyon & Grenoble, France<br>🎓 Étudiant en troisième année de BUT Informatique<br>💻 Passionné d'informatique et de développement<br>🐘 PHP addict 🚀<br>💬 "Mon code, c'est comme une blague : quand ça marche, c'est mieux !" 😄<br>👨‍💻 Codeur enthousiaste | 👾 Chercheur de bugs<br>📚 Toujours en train d'apprendre et d'explorer de nouvelles idées<br>📧 Découvrez mes projets et n'hésitez pas à me contacter !<br>🔗 Let's code together and make the world a bit more fun!<br><br>🧾https://srn-romain.github.io/portfolio/
 
 
 ## 🌐 Socials:
