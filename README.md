@@ -47,18 +47,9 @@ Design :<br/>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![GanttProject](https://img.shields.io/badge/GanttProject-%230078D7.svg?style=for-the-badge&logo=GanttProject&logoColor=white)
 
-## 📊 GitHub Stats
-![Romain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srn-romain&show_icons=true&theme=radical&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srn-romain&layout=compact&theme=radical&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srn-romain&theme=radical&hide_border=false)
-
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@srn_romain)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100073440168921)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romain-sieurin)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/romainsieurin/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22588074/srn-romain)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/srn_romain)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
