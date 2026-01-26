@@ -28,11 +28,8 @@ Bases de données :<br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2300A246.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Neo4j](https://img.shields.io/badge/neo4j-008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white)
 
 DevOps & Cloud< :<br/>
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
@@ -47,10 +44,8 @@ Design :<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=prezi&logoColor=white)
-![Monday.com](https://img.shields.io/badge/monday.com-%23007BFF.svg?style=for-the-badge&logo=monday.com&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%230A74DA.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![GrantProjet](https://img.shields.io/badge/GrantProjet-%230F62FE.svg?style=for-the-badge&logo=grant&logoColor=white)
+![GanttProject](https://img.shields.io/badge/GanttProject-%230078D7.svg?style=for-the-badge&logo=GanttProject&logoColor=white)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srn-romain&theme=city_light&hide_border=true)
