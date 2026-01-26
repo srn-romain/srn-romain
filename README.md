@@ -48,8 +48,10 @@ Design :<br/>
 ![GanttProject](https://img.shields.io/badge/GanttProject-%230078D7.svg?style=for-the-badge&logo=GanttProject&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=srn-romain&theme=city_light&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srn-romain&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/srn-romain?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/srn-romain?style=for-the-badge)
+![GitHub repos](https://img.shields.io/github/repo-count/srn-romain?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/srn-romain?style=for-the-badge)
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@srn_romain)
