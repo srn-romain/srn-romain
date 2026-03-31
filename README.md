@@ -4,7 +4,7 @@
 - 📍 Lyon, France
 - 📫 Contactez-moi sur LinkedIn : [Romain Sieurin](https://www.linkedin.com/in/romain-sieurin)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 Langages de programmation :<br/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -51,7 +51,10 @@ Design :<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romain-sieurin)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22588074/srn-romain)
 
-### ✍️ Random Dev Quote
+## 📈 Activité annuelle
+![](https://github-readme-streak-stats.herokuapp.com/?user=srn-romain&theme=tokyonight)
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
